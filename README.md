@@ -77,13 +77,6 @@ Learning  : Laravel • Flutter • REST API • Clean Architecture
 
 ---
 
-## 🐍 Contribution Snake
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/irfanfarid40404/irfanfarid40404/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
-</p>
-
----
 
 ## 📫 Contact
 
