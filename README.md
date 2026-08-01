@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:4F46E5,100:06B6D4&text=Muhammad%20Farid%20Irfan%20Udin&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Web%20Developer%20|%20Flutter%20Developer%20|%20Informatics%20Engineering%20Student&descAlignY=58"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:4F46E5,100:06B6D4&text=Mohammad%20Farid%20Irfanuddin&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Web%20Developer%20|%20Flutter%20Developer%20|%20Informatics%20Engineering%20Student&descAlignY=58"/>
 </p>
 
 <!-- Typing -->
@@ -30,7 +30,7 @@
 ## 👨‍💻 About Me
 
 ```yaml
-Name      : Muhammad Farid Irfan Udin
+Name      : Mohammad Farid Irfanuddin
 Location  : Pasuruan, Indonesia 🇮🇩
 Education : Informatics Engineering Student
 Focus     : Web & Mobile Development
