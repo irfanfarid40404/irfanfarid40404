@@ -1,21 +1,25 @@
 <div align="center">
 
   <!-- Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&customColorList=0:#0f172a,50:#312e81,100:#4338ca&text=Mohammad%20Farid%20Irfanuddin&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Web%20%E2%80%A2%20Mobile%20Engineer%20%E2%80%A2%20UI%2FUX%20Enthusiast&descAlignY=58&descSize=16&descColor=a5b4fc" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:4F46E5,100:06B6D4&text=Mohammad%20Farid%20Irfanuddin&fontSize=42&fontColor=ffffff&fontAlignY=40&desc=Full-Stack%20Web%20%7C%20Flutter%20Developer%20%7C%20Informatics%20Engineering&descSize=18&descColor=E0E7FF&descAlignY=62" width="100%" alt="Mohammad Farid Irfanuddin Banner" />
+
+  <!-- Prominent Name & Title Header -->
+  <h1>Hi, I'm <span style="color:#6366F1;">Mohammad Farid Irfanuddin</span> 👋</h1>
+  <p><b>🚀 Full-Stack Web & Mobile Developer | Pasuruan, Indonesia 🇮🇩</b></p>
 
   <!-- Animated Typing -->
   <a href="https://github.com/irfanfarid40404">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=818CF8&center=true&vCenter=true&width=650&lines=Building+modern+web+%26+mobile+experiences.;Laravel+%E2%80%A2+Vue.js+%E2%80%A2+Flutter+%E2%80%A2+TailwindCSS;Crafting+clean+code+%26+aesthetic+interfaces.;Welcome+to+my+digital+workspace+%E2%9CA8" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=650&lines=Building+modern+web+%26+mobile+experiences.;Laravel+%E2%80%A2+Vue.js+%E2%80%A2+Flutter+%E2%80%A2+TailwindCSS;Crafting+clean+code+%26+aesthetic+interfaces.;Welcome+to+my+digital+workspace+%E2%9C%A8" alt="Typing SVG" />
   </a>
 
-  <br/>
+  <br/><br/>
 
   <!-- Quick Badges & Profile Views -->
   <p>
     <a href="https://github.com/irfanfarid40404?tab=achievements">
       <img src="https://img.shields.io/badge/GitHub-Achievements-8B5CF6?style=for-the-badge&logo=github&logoColor=white" />
     </a>
-    <a href="https://www.irfanfariddev.xyz">
+    <a href="https://www.irfanfariddev.xyz" target="_blank">
       <img src="https://img.shields.io/badge/Live-Portfolio-3B82F6?style=for-the-badge&logo=googlechrome&logoColor=white" />
     </a>
     <a href="mailto:irfannuddin35272@gmail.com">
@@ -144,5 +148,5 @@ architecture_focus:
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=gradient&customColorList=0:#4338ca,50:#312e81,100:#0f172a" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:4F46E5,100:06B6D4" width="100%" />
 </div>
