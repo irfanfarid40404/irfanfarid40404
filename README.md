@@ -50,22 +50,22 @@
   <table border="0" style="border-collapse: collapse;">
     <tr>
       <td align="center" width="130" style="padding: 12px;">
-        <img src="https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png" width="56" height="56" /><br/>
+        <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/quickdraw-default.png" width="60" height="60" alt="Quickdraw" /><br/>
         <b>Quickdraw</b><br/>
         <sub>Resolved &lt; 5m</sub>
       </td>
       <td align="center" width="130" style="padding: 12px;">
-        <img src="https://github.githubassets.com/assets/yolo-default-be0bbff049e3.png" width="56" height="56" /><br/>
+        <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/yolo-default.png" width="60" height="60" alt="YOLO" /><br/>
         <b>YOLO</b><br/>
         <sub>Direct Ship</sub>
       </td>
       <td align="center" width="130" style="padding: 12px;">
-        <img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="56" height="56" /><br/>
+        <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/pull-shark-default.png" width="60" height="60" alt="Pull Shark" /><br/>
         <b>Pull Shark</b><br/>
         <sub>Merged PRs (x18)</sub>
       </td>
       <td align="center" width="130" style="padding: 12px;">
-        <img src="https://github.githubassets.com/assets/pair-extraordinaire-default-8547432f7a07.png" width="56" height="56" /><br/>
+        <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/pair-extraordinaire-default.png" width="60" height="60" alt="Pair Extraordinaire" /><br/>
         <b>Pair Contributor</b><br/>
         <sub>Co-Authored</sub>
       </td>
@@ -88,25 +88,25 @@
     <tr>
       <td><b>Frontend & UI</b></td>
       <td>
-        <img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,tailwind,vite,bootstrap&theme=dark" />
+        <img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,tailwind,vite,bootstrap&theme=dark" alt="Frontend" />
       </td>
     </tr>
     <tr>
       <td><b>Backend & DB</b></td>
       <td>
-        <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,mysql,postgres,firebase&theme=dark" />
+        <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,mysql,postgres,firebase&theme=dark" alt="Backend" />
       </td>
     </tr>
     <tr>
       <td><b>Mobile Platforms</b></td>
       <td>
-        <img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio&theme=dark" />
+        <img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio&theme=dark" alt="Mobile" />
       </td>
     </tr>
     <tr>
       <td><b>DevOps & Workflow</b></td>
       <td>
-        <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman&theme=dark" />
+        <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman&theme=dark" alt="DevOps" />
       </td>
     </tr>
   </tbody>
