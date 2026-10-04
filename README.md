@@ -1,78 +1,73 @@
 <div align="center">
 
-  <!-- Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:4F46E5,100:06B6D4&text=Mohammad%20Farid%20Irfanuddin&fontSize=42&fontColor=ffffff&fontAlignY=40&desc=Full-Stack%20Web%20%7C%20Flutter%20Developer%20%7C%20Informatics%20Engineering&descSize=18&descColor=E0E7FF&descAlignY=62" width="100%" alt="Mohammad Farid Irfanuddin Banner" />
+  <!-- Editorial Minimal Header Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=180&color=0:000000,100:18181b&stroke=27272a&strokeWidth=1&text=Mohammad%20Farid%20Irfanuddin&fontSize=34&fontColor=ffffff&fontAlignY=42&desc=FULL%20STACK%20DEVELOPER%20%E2%80%A2%20MOBILE%20ENGINEER&descSize=13&descColor=a1a1aa&descAlignY=66" width="100%" alt="Header" />
 
-  <!-- Prominent Name & Title Header -->
-  <h1>Hi, I'm <span style="color:#6366F1;">Mohammad Farid Irfanuddin</span> 👋</h1>
-  <p><b>🚀 Full-Stack Web & Mobile Developer | Pasuruan, Indonesia 🇮🇩</b></p>
+  <br/>
 
-  <!-- Animated Typing -->
+  <!-- Minimal Monospace Typing -->
   <a href="https://github.com/irfanfarid40404">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=650&lines=Building+modern+web+%26+mobile+experiences.;Laravel+%E2%80%A2+Vue.js+%E2%80%A2+Flutter+%E2%80%A2+TailwindCSS;Crafting+clean+code+%26+aesthetic+interfaces.;Welcome+to+my+digital+workspace+%E2%9C%A8" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=16&duration=2800&pause=1000&color=E4E4E7&center=true&vCenter=true&width=600&lines=%3E_Building+scalable+systems+%26+fluid+interfaces;%3E_Laravel+%E2%80%A2+Vue+3+%E2%80%A2+Flutter+%E2%80%A2+TailwindCSS;%3E_Clean+architecture+%E2%80%A2+high+performance;%3E_Available+for+innovative+collaborations" alt="Typing SVG" />
   </a>
 
-  <br/><br/>
+  <br/>
 
-  <!-- Quick Badges & Profile Views -->
+  <!-- Minimal Badges -->
   <p>
     <a href="https://github.com/irfanfarid40404?tab=achievements">
-      <img src="https://img.shields.io/badge/GitHub-Achievements-8B5CF6?style=for-the-badge&logo=github&logoColor=white" />
+      <img src="https://img.shields.io/badge/GitHub-Achievements-18181b?style=flat-square&logo=github&logoColor=white" />
     </a>
     <a href="https://www.irfanfariddev.xyz" target="_blank">
-      <img src="https://img.shields.io/badge/Live-Portfolio-3B82F6?style=for-the-badge&logo=googlechrome&logoColor=white" />
+      <img src="https://img.shields.io/badge/Portfolio-irfanfariddev.xyz-18181b?style=flat-square&logo=googlechrome&logoColor=white" />
     </a>
     <a href="mailto:irfannuddin35272@gmail.com">
-      <img src="https://img.shields.io/badge/Email-Get_In_Touch-EF4444?style=for-the-badge&logo=gmail&logoColor=white" />
+      <img src="https://img.shields.io/badge/Email-Contact-18181b?style=flat-square&logo=gmail&logoColor=white" />
     </a>
-    <img src="https://komarev.com/ghpvc/?username=irfanfarid40404&style=for-the-badge&color=6366F1" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=irfanfarid40404&style=flat-square&color=27272a" alt="Views" />
   </p>
 
 </div>
 
 ---
 
-### ⚡ Snapshot & Profile Overview
+### `// 01. SPECIFICATIONS`
 
-```yaml
-identity:
-  name: Mohammad Farid Irfanuddin
-  role: Full-Stack Web & Mobile Developer
-  location: Pasuruan, East Java, Indonesia 🇮🇩
-  education: Informatics Engineering Student
-architecture_focus:
-  - Clean Architecture & Domain-Driven Design
-  - Modern Responsive Web UI (Vue 3, TailwindCSS)
-  - Cross-Platform Mobile Apps (Flutter, Dart)
-  - Robust REST APIs (Laravel, Node.js)
+```json
+{
+  "developer": "Mohammad Farid Irfanuddin",
+  "location": "Pasuruan, Indonesia [UTC+7]",
+  "focus": ["Full-Stack Web Engineering", "Cross-Platform Mobile"],
+  "core_stack": ["PHP / Laravel", "TypeScript / Vue 3", "Dart / Flutter"],
+  "methodology": ["Clean Architecture", "RESTful Design", "Test-Driven"]
+}
 ```
 
 ---
 
-### 🎖️ GitHub Achievements & Milestones
+### `// 02. RECOGNITIONS & ACHIEVEMENTS`
 
 <div align="center">
-  <table>
+  <table border="0" style="border-collapse: collapse;">
     <tr>
-      <td align="center" width="120">
-        <img src="https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png" width="64" height="64" /><br/>
+      <td align="center" width="130" style="padding: 12px;">
+        <img src="https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png" width="56" height="56" /><br/>
         <b>Quickdraw</b><br/>
-        <sub>Closed &lt; 5 mins</sub>
+        <sub>Resolved &lt; 5m</sub>
       </td>
-      <td align="center" width="120">
-        <img src="https://github.githubassets.com/assets/yolo-default-be0bbff049e3.png" width="64" height="64" /><br/>
+      <td align="center" width="130" style="padding: 12px;">
+        <img src="https://github.githubassets.com/assets/yolo-default-be0bbff049e3.png" width="56" height="56" /><br/>
         <b>YOLO</b><br/>
-        <sub>Merged without review</sub>
+        <sub>Direct Ship</sub>
       </td>
-      <td align="center" width="120">
-        <img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="64" height="64" /><br/>
+      <td align="center" width="130" style="padding: 12px;">
+        <img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="56" height="56" /><br/>
         <b>Pull Shark</b><br/>
-        <sub>PRs Merged (x18)</sub>
+        <sub>Merged PRs (x18)</sub>
       </td>
-      <td align="center" width="120">
-        <img src="https://github.githubassets.com/assets/pair-extraordinaire-default-8547432f7a07.png" width="64" height="64" /><br/>
-        <b>Pair Extraordinaire</b><br/>
-        <sub>Co-authored Merged</sub>
+      <td align="center" width="130" style="padding: 12px;">
+        <img src="https://github.githubassets.com/assets/pair-extraordinaire-default-8547432f7a07.png" width="56" height="56" /><br/>
+        <b>Pair Contributor</b><br/>
+        <sub>Co-Authored</sub>
       </td>
     </tr>
   </table>
@@ -80,73 +75,85 @@ architecture_focus:
 
 ---
 
-### 🛠️ Tech Stack & Arsenal
+### `// 03. TECH STACK MATRIX`
 
 <table align="center" width="100%">
-  <tr>
-    <td align="center" width="25%"><b>Frontend & Styling</b></td>
-    <td align="center" width="25%"><b>Backend & Databases</b></td>
-    <td align="center" width="25%"><b>Mobile & Cross-Platform</b></td>
-    <td align="center" width="25%"><b>Tools & Workflow</b></td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,tailwind,bootstrap,vite&perline=4" />
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,mysql,postgres,firebase&perline=3" />
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio&perline=3" />
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman&perline=3" />
-    </td>
-  </tr>
+  <thead>
+    <tr>
+      <th align="left">LAYER</th>
+      <th align="left">TECHNOLOGIES & TOOLS</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Frontend & UI</b></td>
+      <td>
+        <img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,tailwind,vite,bootstrap&theme=dark" />
+      </td>
+    </tr>
+    <tr>
+      <td><b>Backend & DB</b></td>
+      <td>
+        <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,mysql,postgres,firebase&theme=dark" />
+      </td>
+    </tr>
+    <tr>
+      <td><b>Mobile Platforms</b></td>
+      <td>
+        <img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio&theme=dark" />
+      </td>
+    </tr>
+    <tr>
+      <td><b>DevOps & Workflow</b></td>
+      <td>
+        <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman&theme=dark" />
+      </td>
+    </tr>
+  </tbody>
 </table>
 
 ---
 
-### 📊 Performance & Analytics
+### `// 04. METRICS & TELEMETRY`
 
 <div align="center">
   <table border="0">
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=irfanfarid40404&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=818cf8&icon_color=a5b4fc&text_color=e2e8f0&bg_color=0f172a" height="175" alt="GitHub Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=irfanfarid40404&show_icons=true&theme=dark&hide_border=false&border_color=27272a&bg_color=09090b&title_color=ffffff&icon_color=a1a1aa&text_color=d4d4d8&count_private=true" height="165" alt="GitHub Stats" />
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=irfanfarid40404&layout=compact&theme=tokyonight&hide_border=true&title_color=818cf8&text_color=e2e8f0&bg_color=0f172a" height="175" alt="Top Languages" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=irfanfarid40404&layout=compact&theme=dark&hide_border=false&border_color=27272a&bg_color=09090b&title_color=ffffff&text_color=d4d4d8" height="165" alt="Top Languages" />
       </td>
     </tr>
   </table>
 
   <br/>
 
-  <img src="https://streak-stats.demolab.com?user=irfanfarid40404&theme=tokyonight&hide_border=true&background=0F172A&ring=818CF8&fire=F59E0B&currStreakLabel=818CF8" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=irfanfarid40404&theme=dark&hide_border=false&border=27272A&background=09090B&stroke=27272A&ring=FFFFFF&fire=E4E4E7&currStreakLabel=A1A1AA" alt="GitHub Streak" />
 
 </div>
 
 ---
 
-### 🌐 Connect with Me
+### `// 05. REACH OUT`
 
 <div align="center">
   <a href="https://www.irfanfariddev.xyz" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-irfanfariddev.xyz-4F46E5?style=for-the-badge&logo=googlechrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/WEBSITE-irfanfariddev.xyz-000000?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
   &nbsp;
   <a href="mailto:irfannuddin35272@gmail.com">
-    <img src="https://img.shields.io/badge/Email-irfannuddin35272%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/EMAIL-irfannuddin35272%40gmail.com-000000?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   &nbsp;
   <a href="https://github.com/irfanfarid40404">
-    <img src="https://img.shields.io/badge/GitHub-irfanfarid40404-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GITHUB-irfanfarid40404-000000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:4F46E5,100:06B6D4" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&section=footer&height=40&color=0:18181b,100:000000&stroke=27272a&strokeWidth=1" width="100%" />
 </div>
