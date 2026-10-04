@@ -1,105 +1,161 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:4F46E5,100:06B6D4&text=Mohammad%20Farid%20Irfanuddin&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Web%20Developer%20|%20Flutter%20Developer%20|%20Informatics%20Engineering%20Student&descAlignY=58"/>
-</p>
+<div align="center">
 
-<!-- Typing -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=4F46E5&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Muhammad+Farid+Irfan+Udin;Web+Developer;Flutter+Developer;Laravel+Developer;Always+Learning+New+Things+🚀"/>
-</p>
+  <!-- Header Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&customColorList=0:#0f172a,50:#312e81,100:#4338ca&text=Mohammad%20Farid%20Irfanuddin&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Web%20%E2%80%A2%20Mobile%20Engineer%20%E2%80%A2%20UI%2FUX%20Enthusiast&descAlignY=58&descSize=16&descColor=a5b4fc" width="100%" />
 
-<!-- Social -->
-<p align="center">
-  <a href="mailto:irfannuddin35272@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+  <!-- Animated Typing -->
   <a href="https://github.com/irfanfarid40404">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=818CF8&center=true&vCenter=true&width=650&lines=Building+modern+web+%26+mobile+experiences.;Laravel+%E2%80%A2+Vue.js+%E2%80%A2+Flutter+%E2%80%A2+TailwindCSS;Crafting+clean+code+%26+aesthetic+interfaces.;Welcome+to+my+digital+workspace+%E2%9C%A8" alt="Typing SVG" />
   </a>
-  <a href="https://www.irfanfariddev.xyz">
-    <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-  </a>
-</p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=irfanfarid40404&style=for-the-badge&color=4F46E5"/>
-</p>
+  <br/>
+
+  <!-- Quick Badges & Profile Views -->
+  <p>
+    <a href="https://github.com/irfanfarid40404?tab=achievements">
+      <img src="https://img.shields.io/badge/GitHub-Achievements-8B5CF6?style=for-the-badge&logo=github&logoColor=white" />
+    </a>
+    <a href="https://www.irfanfariddev.xyz">
+      <img src="https://img.shields.io/badge/Live-Portfolio-3B82F6?style=for-the-badge&logo=googlechrome&logoColor=white" />
+    </a>
+    <a href="mailto:irfannuddin35272@gmail.com">
+      <img src="https://img.shields.io/badge/Email-Get_In_Touch-EF4444?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
+    <img src="https://komarev.com/ghpvc/?username=irfanfarid40404&style=for-the-badge&color=6366F1" alt="Profile Views" />
+  </p>
+
+</div>
 
 ---
 
-## 👨‍💻 About Me
+### ⚡ Snapshot & Profile Overview
 
 ```yaml
-Name      : Mohammad Farid Irfanuddin
-Location  : Pasuruan, Indonesia 🇮🇩
-Education : Informatics Engineering Student
-Focus     : Web & Mobile Development
-Learning  : Laravel • Flutter • REST API • Clean Architecture
+identity:
+  name: Mohammad Farid Irfanuddin
+  role: Full-Stack Web & Mobile Developer
+  location: Pasuruan, East Java, Indonesia 🇮🇩
+  education: Informatics Engineering Student
+architecture_focus:
+  - Clean Architecture & Domain-Driven Design
+  - Modern Responsive Web UI (Vue 3, TailwindCSS)
+  - Cross-Platform Mobile Apps (Flutter, Dart)
+  - Robust REST APIs (Laravel, Node.js)
 ```
 
 ---
 
-## 🚀 Tech Stack
+### 🎖️ GitHub Achievements & Milestones
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,php,laravel,nodejs,flutter,dart,mysql,firebase,git,github,vscode,figma,wordpress,tailwind,bootstrap,vite,postman"/>
-</p>
-
----
-
-## 📊 GitHub Statistics
-
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=irfanfarid40404&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=irfanfarid40404&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=irfanfarid40404&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-## 🏆 GitHub Trophy
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=irfanfarid40404&theme=algolia&row=1&column=6&margin-w=15"/>
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=irfanfarid40404&theme=tokyo-night&hide_border=true"/>
-</p>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="120">
+        <img src="https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png" width="64" height="64" /><br/>
+        <b>Quickdraw</b><br/>
+        <sub>Closed &lt; 5 mins</sub>
+      </td>
+      <td align="center" width="120">
+        <img src="https://github.githubassets.com/assets/yolo-default-be0bbff049e3.png" width="64" height="64" /><br/>
+        <b>YOLO</b><br/>
+        <sub>Merged without review</sub>
+      </td>
+      <td align="center" width="120">
+        <img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="64" height="64" /><br/>
+        <b>Pull Shark</b><br/>
+        <sub>PRs Merged (x18)</sub>
+      </td>
+      <td align="center" width="120">
+        <img src="https://github.githubassets.com/assets/pair-extraordinaire-default-8547432f7a07.png" width="64" height="64" /><br/>
+        <b>Pair Extraordinaire</b><br/>
+        <sub>Co-authored Merged</sub>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
+### 🛠️ Tech Stack & Arsenal
 
-## 📫 Contact
-
-<p align="center">
-<a href="mailto:irfannuddin35272@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail"/>
-</a>
-
-<a href="https://github.com/irfanfarid40404">
-<img src="https://img.shields.io/badge/GitHub-irfanfarid40404-black?style=flat-square&logo=github"/>
-</a>
-
-<a href="https://www.irfanfariddev.xyz">
-<img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=flat-square&logo=googlechrome"/>
-</a>
-</p>
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="25%"><b>Frontend & Styling</b></td>
+    <td align="center" width="25%"><b>Backend & Databases</b></td>
+    <td align="center" width="25%"><b>Mobile & Cross-Platform</b></td>
+    <td align="center" width="25%"><b>Tools & Workflow</b></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,tailwind,bootstrap,vite&perline=4" />
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,mysql,postgres,firebase&perline=3" />
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio&perline=3" />
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman&perline=3" />
+    </td>
+  </tr>
+</table>
 
 ---
 
-<p align="center">
-  <b>✨ Code • Learn • Build • Repeat ✨</b>
-</p>
+### 📊 Performance & Analytics
 
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:06B6D4,100:4F46E5"/>
-</p>
+<div align="center">
+  <table border="0">
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=irfanfarid40404&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=818cf8&icon_color=a5b4fc&text_color=e2e8f0&bg_color=0f172a" height="175" alt="GitHub Stats" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=irfanfarid40404&layout=compact&theme=tokyonight&hide_border=true&title_color=818cf8&text_color=e2e8f0&bg_color=0f172a" height="175" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
+
+  <br/>
+
+  <img src="https://streak-stats.demolab.com?user=irfanfarid40404&theme=tokyonight&hide_border=true&background=0F172A&ring=818CF8&fire=F59E0B&currStreakLabel=818CF8" alt="GitHub Streak" />
+
+  <br/><br/>
+
+  <!-- Trophies -->
+  <img src="https://github-profile-trophy.vercel.app/?username=irfanfarid40404&theme=onedark&no-frame=true&no-bg=true&margin-w=6&column=7" alt="GitHub Trophies" />
+
+</div>
+
+---
+
+### 📈 Contribution Stream
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=irfanfarid40404&theme=tokyo-night&hide_border=true&bg_color=0f172a&color=818cf8&line=6366f1&point=c084fc" width="95%" alt="Activity Graph" />
+</div>
+
+---
+
+### 🌐 Connect with Me
+
+<div align="center">
+  <a href="https://www.irfanfariddev.xyz" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-irfanfariddev.xyz-4F46E5?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="mailto:irfannuddin35272@gmail.com">
+    <img src="https://img.shields.io/badge/Email-irfannuddin35272%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/irfanfarid40404">
+    <img src="https://img.shields.io/badge/GitHub-irfanfarid40404-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=gradient&customColorList=0:#4338ca,50:#312e81,100:#0f172a" width="100%" />
+</div>
