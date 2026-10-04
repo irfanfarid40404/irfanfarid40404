@@ -5,7 +5,7 @@
 
   <!-- Animated Typing -->
   <a href="https://github.com/irfanfarid40404">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=818CF8&center=true&vCenter=true&width=650&lines=Building+modern+web+%26+mobile+experiences.;Laravel+%E2%80%A2+Vue.js+%E2%80%A2+Flutter+%E2%80%A2+TailwindCSS;Crafting+clean+code+%26+aesthetic+interfaces.;Welcome+to+my+digital+workspace+%E2%9C%A8" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=818CF8&center=true&vCenter=true&width=650&lines=Building+modern+web+%26+mobile+experiences.;Laravel+%E2%80%A2+Vue.js+%E2%80%A2+Flutter+%E2%80%A2+TailwindCSS;Crafting+clean+code+%26+aesthetic+interfaces.;Welcome+to+my+digital+workspace+%E2%9CA8" alt="Typing SVG" />
   </a>
 
   <br/>
@@ -121,19 +121,6 @@ architecture_focus:
 
   <img src="https://streak-stats.demolab.com?user=irfanfarid40404&theme=tokyonight&hide_border=true&background=0F172A&ring=818CF8&fire=F59E0B&currStreakLabel=818CF8" alt="GitHub Streak" />
 
-  <br/><br/>
-
-  <!-- Trophies -->
-  <img src="https://github-profile-trophy.vercel.app/?username=irfanfarid40404&theme=onedark&no-frame=true&no-bg=true&margin-w=6&column=7" alt="GitHub Trophies" />
-
-</div>
-
----
-
-### 📈 Contribution Stream
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=irfanfarid40404&theme=tokyo-night&hide_border=true&bg_color=0f172a&color=818cf8&line=6366f1&point=c084fc" width="95%" alt="Activity Graph" />
 </div>
 
 ---
